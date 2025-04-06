@@ -1,0 +1,2 @@
+<!ELEMENT libro EMPTY>
+<!ATTLIST libro autor NMTOKEN #REQUIRED>

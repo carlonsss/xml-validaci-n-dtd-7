@@ -1,0 +1,14 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [inventores] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE inventores SYSTEM "inventores.dtd">
+<inventores>
+    <inventor nombre="RobertAdler" invento="Mando a distancia" />
+    <inventor nombre="LaszloJosefBiro" invento="Bolígrafo" />
+    <inventor nombre="JosephineGarisCochran" invento="Lavaplatos" />
+    <inventor nombre="Fuego" invento="Fuego" />
+</inventores>

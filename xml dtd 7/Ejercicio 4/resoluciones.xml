@@ -1,0 +1,13 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [resoluciones ] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE resoluciones SYSTEM "resoluciones.dtd">
+<resoluciones>
+    <resolucion nombre="VGA" alto="480" ancho="640" />
+    <resolucion nombre="XGA" alto="1024" ancho="768" />
+    <resolucion nombre="HD1080" alto="1920" ancho="1080" />
+</resoluciones>

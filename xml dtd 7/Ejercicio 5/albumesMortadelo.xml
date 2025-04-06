@@ -1,0 +1,27 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [albumesMortadelo ] 
+-->
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE albumesMortadelo SYSTEM "albumesMortadelo.dtd">
+<albumesMortadelo>
+    <album>
+        <nombre>El sulfato atómico</nombre>
+        <fecha>1969</fecha>
+    </album>
+    <album>
+        <nombre>La caja de diez cerrojos</nombre>
+        <fecha>1971</fecha>
+    </album>
+    <album>
+        <nombre>El otro yo del profesor Bacterio</nombre>
+        <fecha>1973</fecha>
+    </album>
+    <album>
+        <nombre>Los cacharros majaretas</nombre>
+        <fecha>1974</fecha>
+    </album>
+</albumesMortadelo>

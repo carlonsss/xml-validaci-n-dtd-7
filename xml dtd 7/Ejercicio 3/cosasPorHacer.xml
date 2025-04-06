@@ -1,0 +1,16 @@
+<!-- 
+Nombre: Carlos Gil
+Curso: [Asir] 
+Fecha: [6/4/2025] 
+Ejercicio: [cosasPorHacer] 
+-->
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cosasPorHacer SYSTEM "cosasPorHacer.dtd">
+<cosasPorHacer>
+    <cosa fecha="20 de febrero de 2011" fechaLimite="1 de marzo de 2011" asunto="Preparar ejercicios de DTDs">
+        Preparar ejercicios de DTDs
+    </cosa>
+    <cosa fecha="21 de febrero de 2011" fechaLimite="5 de marzo de 2011" asunto="Preparar tema XSLT">
+        Preparar tema XSLT
+    </cosa>
+</cosasPorHacer>
